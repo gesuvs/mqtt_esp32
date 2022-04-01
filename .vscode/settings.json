@@ -1,0 +1,28 @@
+{
+  "files.associations": {
+    "*.yml": "yaml",
+    "*.rmd": "markdown",
+    "esp_log.h": "c",
+    "mqtt_client.h": "c",
+    "mqtt_event_strategy.h": "c",
+    "mqtt_esp32.h": "c",
+    "stdio.h": "c",
+    "mqtt_events_categories.h": "c",
+    "*.ipp": "c",
+    "string_view": "c",
+    "stdlib.h": "c",
+    "customercategories.h": "c",
+    "customerstrategy.h": "c",
+    "strategy_pattern.h": "c",
+    "user_function.h": "c",
+    "mqtt.h": "c",
+    "mqtt_function.h": "c",
+    "vip_discounts_strategy.h": "c",
+    "normal_discounts_strategy.h": "c",
+    "thread": "c",
+    "mqtt_event_connected.h": "c",
+    "freertos.h": "c",
+    "task.h": "c",
+    "queue.h": "c"
+  }
+}
